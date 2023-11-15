@@ -3,8 +3,6 @@ from copy import copy
 import numpy as np
 import matplotlib.pyplot as plt
 
-import GenerateSplineFunctions as G
-import CoefficientPathImplementation as C
 import Spline as S
 import SplineFunctions as G
 
